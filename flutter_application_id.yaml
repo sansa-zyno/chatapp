@@ -1,0 +1,7 @@
+flutter_application_id:
+  android:
+    id: "com.pbo.www"
+    name: "PBO"
+  ios:
+    id: "com.pbo.www"
+    name: "PBO"
